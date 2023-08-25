@@ -1,0 +1,23 @@
+.footer{
+    background-color:rgb(23 37 84 )
+    ;
+    
+}
+.logo{
+    padding-bottom: 37px;
+    margin-left: 40px;
+}
+.text{
+    font-weight: bold !important;
+
+}
+.texto{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto:hover{
+    color: rgb(11, 86, 225);
+}
+.row{
+    margin-right: 0% !important;
+
+}

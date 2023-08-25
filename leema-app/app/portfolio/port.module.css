@@ -1,0 +1,28 @@
+.zoom {
+    transition: transform .2s;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}  
+  .zoom:hover {
+    transform: scale(1.1);
+  }
+.list{
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: center;
+    gap: 40px;
+    
+
+}
+ .li{
+    border-radius: 1px;
+    border: solid 1px;
+    padding: 3px;
+ }
+ .li:hover{
+    background-color: #fd6027;
+ }
